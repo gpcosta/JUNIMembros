@@ -1,0 +1,11 @@
+const databaseKeys = {
+    database: ,
+    host: ,
+    port: ,
+    user: ,
+    password:
+};
+
+module.exports.getDatabaseKeys = function () {
+    return databaseKeys;
+};
